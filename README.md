@@ -1,5 +1,5 @@
 # node-api
-Repo for API CRUD in node
+Repo for API using ES6 use [es lint nightmare](https://github.com/jonathanKingston/eslint-config-nightmare-mode).
 
 ## Features
 * eslint
